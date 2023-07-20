@@ -1,7 +1,3 @@
-library(openxlsx)
-library(tidyverse)
-library(readxl)
-library(dplyr)
 library(stats)
 library(knitr)
 library(kableExtra)
