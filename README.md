@@ -9,5 +9,6 @@ Sex_related_Genes Clear Cell Renal Cell Carcinoma
 ## Support
 Main package used : 
   - Python
+    scipy, matplotlib, lifelines 
   - R
-
+    stats
