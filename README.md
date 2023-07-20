@@ -8,7 +8,11 @@ Sex_related_Genes Clear Cell Renal Cell Carcinoma
 우리는 이를 위하여 Fisher와 LogRank test(OS/DFS,collective)를 수행하였습니다.
 ## Support
 Main package used : 
-  - Python
+  - Python :
+
+    
     scipy, matplotlib, lifelines 
-  - R
+  - R :
+
+    
     stats
