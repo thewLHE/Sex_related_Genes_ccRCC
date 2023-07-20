@@ -1,6 +1,4 @@
 library(stats)
-library(knitr)
-library(kableExtra)
 
 info <- read.csv("koreamerged0706_ccRCC_1panelv2.csv")
 gdata <- info[, 16:ncol(info)]
